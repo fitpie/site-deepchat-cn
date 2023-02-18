@@ -11,7 +11,7 @@ export default {
   	logo: '/logo.png',
     footer: {
       copyright:
-        'Copyright © 2023 DeepChat. All rights reserved.'
+        'Copyright © 2023 DeepChat. 保留所有权利。'
     }
   }
 }
