@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as t,a as i}from"./app.b1f903a1.js";const m=JSON.parse('{"title":"Privacy Policy","description":"","frontmatter":{},"headers":[],"relativePath":"privacy.md"}'),a={name:"privacy.md"},r=i("",35),n=[r];function s(c,l,u,p,h,d){return t(),e("div",null,n)}const y=o(a,[["render",s]]);export{m as __pageData,y as default};
